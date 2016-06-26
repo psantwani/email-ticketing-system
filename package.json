@@ -1,0 +1,29 @@
+{
+  "name": "email-ticketing-system",
+  "version": "1.0.0",
+  "description": "Email Ticketing System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silentx09/email-ticketing-system.git"
+  },
+  "keywords": [
+    "ticketing",
+    "automation",
+    "imap"
+  ],
+  "author": "Piyush Santwani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/silentx09/email-ticketing-system/issues"
+  },
+  "homepage": "https://github.com/silentx09/email-ticketing-system#readme",
+  "dependencies": {
+    "inbox": "^1.1.59",
+    "mysql": "^2.11.1",
+    "node-mysql": "^0.4.2"
+  }
+}
