@@ -23,7 +23,9 @@
   "homepage": "https://github.com/silentx09/email-ticketing-system#readme",
   "dependencies": {
     "inbox": "^1.1.59",
+    "mailgun-js": "^0.7.11",
+    "mongoose": "^4.5.2",
     "mysql": "^2.11.1",
-    "node-mysql": "^0.4.2"
+    "node-mysql": "^0.4.2"    
   }
 }
