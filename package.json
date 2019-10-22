@@ -24,7 +24,7 @@
   "dependencies": {
     "inbox": "^1.1.59",
     "mailgun-js": "^0.7.11",
-    "mongoose": "^4.5.2",
+    "mongoose": "^5.7.6",
     "mysql": "^2.11.1",
     "node-mysql": "^0.4.2"    
   }
